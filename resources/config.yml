@@ -1,0 +1,4 @@
+update-interval: 10
+
+offline-server-message: "The Server is Offline"
+online-server-message: "{count}/{max}"

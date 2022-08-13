@@ -1,0 +1,11 @@
+name: ServersOnlineCount
+version: 1.0.0
+author: Aboshxm2
+description: Count the number of players on different servers and put it in the server motd.
+api: 4.0.0
+src-namespace-prefix: Aboshxm2\ServersOnlineCount
+main: Aboshxm2\ServersOnlineCount\Main
+
+permissions:
+  ServersOnlineCount.commands.servers:
+    default: op
